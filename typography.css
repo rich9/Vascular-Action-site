@@ -1,0 +1,48 @@
+/*typography
+35em ~= 65cpl
+*/
+	@media (max-width: 30em){
+		.scaling {
+			font-size: .85em;
+		}
+	}
+	@media (min-width: 30em){
+		.scaling {
+			font-size: 1em;
+		}
+	}
+	@media (min-width: 40em){
+		.scaling {
+			font-size: 1.29em;
+		}
+	}
+	@media (min-width: 50em){
+		.scaling {
+			font-size: 1.57em;
+		}
+	}
+	@media (min-width: 60em){
+		.scaling {
+			font-size: 1.86em;
+		}
+	}
+	@media (min-width: 70em){
+		.scaling {
+			font-size: 2.14em;
+		}
+	}
+	@media (min-width: 80em){
+		.scaling {
+			font-size: 2.43em;
+		}
+	}
+	@media (min-width: 90em){
+		.scaling {
+			font-size: 2.71em;
+		}
+	}
+	@media (min-width: 100em){
+		.scaling {
+			font-size: 3em;
+		}
+	}
